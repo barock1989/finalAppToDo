@@ -1,0 +1,14 @@
+h1 {
+    font-family: 'Pacifico', 'cursive';
+    font-size: 45px;
+    color: whitesmoke;
+    text-align: inherit;
+}
+#center {
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-size: 30px;
+    color: #ffff
+}
+
+
